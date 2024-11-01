@@ -1,0 +1,78 @@
+.ced-full-width.ced_wcswr_container.ced-page2-container ,
+.ced-promotional-sidebar-wrapper {
+    width: 100%;
+    float: none;
+    margin-right: 0%;
+}
+.ced-full-width .ced_wcswr_container.ced-page2-container ,
+.ced-full-width .ced-promotional-sidebar {
+    width: 100%;
+    margin-right: 0%;
+    margin-top: 2%;
+    float: none;
+}
+.ced_wcswr_container.ced-page2-container ,
+.ced-promotional-sidebar {
+    width: 68%;
+    margin-right: 2%;
+    margin-top: 2%;
+    float: left;
+}
+.ced_wcswr_img_email_image {
+    margin-top: 2%;
+    float: left;
+    width: 30%;
+}
+.ced_wcswr_email_main_content {
+    background-color: #ffffff;
+    padding: 10px;
+    width: 300px;
+    box-shadow: 0 3px 9px -4px rgba(0,0,0,0.5);
+    position: relative;
+    margin: 0px auto 0;
+}
+.button-primary.ced_wcswr_cross_image_link {
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    padding: 0px;
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    display: block;
+    text-align: center;
+    line-height: 16px;
+    box-shadow: none;
+}
+.ced_wcswr_email_main_content .ced-recom h4 {
+    margin: 0;
+    font-size: 14px;
+}
+.wramvp_img_banner a {
+    display: block;
+}
+.wramvp_img_banner a img {
+    width: 100%;
+}
+.wramvp-support {
+    padding: 15px 0;
+}
+.ced-promotional-sidebar:after,
+.wramvp-support::after, 
+.wramvp-support ul li::after, 
+.ced_ocor_row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.wramvp-support ul li {
+    font-size: 12px;
+}
+.wramvp-support .wramvp-support__left {
+    float: left;
+    width: 43%;
+}
+.wramvp-support .wramvp-support__right {
+    float: left;
+    width: 57%;
+}

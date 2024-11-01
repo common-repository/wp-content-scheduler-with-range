@@ -1,0 +1,437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Content Scheduler With Range 1.0.8\n"
+"POT-Creation-Date: 2017-11-21 12:23+0530\n"
+"PO-Revision-Date: 2017-11-21 12:23+0530\n"
+"Last-Translator: \n"
+"Language-Team: CedCommerce <plugins@cedcommerce.com>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath:\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-content-scheduler-with-range.php:41
+msgid "Settings"
+msgstr ""
+
+#: wp-content-scheduler-with-range.php:59
+msgid "Docs"
+msgstr ""
+
+#: wp-content-scheduler-with-range.php:60
+msgid "Live Demo"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:70
+msgid ""
+"Soon you will receive the more details of this extension on the given mail."
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:74
+msgid "Sorry,an error occurred.Please try again"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:79
+msgid "Sorry,an error occurred.Please try again."
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:126
+msgid "Please select at least on post type first!!"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:127
+msgid "All fields must be filled."
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:128
+msgid "Select from Date and to Date"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:129
+msgid "Please select a valid time"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:259
+#: includes/wp-content-scheduler-with-range-class.php:314
+msgid "Scheduled Date"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:300
+#: includes/wp-content-scheduler-with-range-class.php:354
+msgid "Not Scheduled Yet"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:374
+msgid "Post type setting is saved successfully !!!"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:378
+msgid "There are no changes selected in post types setting !!!"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:401
+msgid ""
+"Move To setting's is saved successfully, Now all the post will be moved to "
+"trash after exceeding its date !!!"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:405
+msgid ""
+"Move To setting's is saved successfully, Now all the post will be moved to "
+"draft after exceeding its date !!!"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:409
+msgid ""
+"Move To setting's is saved successfully, Now all the post will remain "
+"published after exceeding its date !!!"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:413
+msgid ""
+"It seems you haven't selected any chnages, Please do some changes and save "
+"again !!!"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:552
+msgid "Occasional Content settings are saved successfully !!!"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:556
+#: includes/wp-content-scheduler-with-range-class.php:603
+msgid ""
+"It seems there were no changes selected, Please do some changes and save "
+"again !!!"
+msgstr ""
+
+#: includes/wp-content-scheduler-with-range-class.php:599
+msgid "Shortcode Content Settings are Saved Successfully !!!"
+msgstr ""
+
+#: includes/table_settings.php:10
+msgid "Scheduled Posts"
+msgstr ""
+
+#: includes/table_settings.php:19
+msgid "Title"
+msgstr ""
+
+#: includes/table_settings.php:21
+msgid "Rendering Dates"
+msgstr ""
+
+#: includes/table_settings.php:23 includes/settings.php:315
+msgid "Rendering Time"
+msgstr ""
+
+#: includes/table_settings.php:62 includes/settings.php:374
+msgid "Edit"
+msgstr ""
+
+#: includes/table_settings.php:88
+msgid "No Content To Show. Schedule Some Posts/Pages First."
+msgstr ""
+
+#: includes/main.php:48
+msgid "From:"
+msgstr ""
+
+#: includes/main.php:51
+msgid "Select initial date"
+msgstr ""
+
+#: includes/main.php:55
+msgid "Select initial time"
+msgstr ""
+
+#: includes/main.php:61
+msgid "To:"
+msgstr ""
+
+#: includes/main.php:64
+msgid "Select over date"
+msgstr ""
+
+#: includes/main.php:68
+msgid "Select over time"
+msgstr ""
+
+#: includes/settings.php:61
+msgid "WP Content Scheduler With Range Settings"
+msgstr ""
+
+#: includes/settings.php:77
+msgid "enter your e-mail address"
+msgstr ""
+
+#: includes/settings.php:78
+msgid "Know More"
+msgstr ""
+
+#: includes/settings.php:93
+msgid "Post Type"
+msgstr ""
+
+#: includes/settings.php:96
+msgid "Move To"
+msgstr ""
+
+#: includes/settings.php:99
+msgid "Occasional  Content"
+msgstr ""
+
+#: includes/settings.php:102
+msgid "Create Shortcode"
+msgstr ""
+
+#: includes/settings.php:115
+msgid "Select Post Types:"
+msgstr ""
+
+#: includes/settings.php:146 includes/settings.php:187
+msgid "Selected Post Types:"
+msgstr ""
+
+#: includes/settings.php:174
+msgid "Update"
+msgstr ""
+
+#: includes/settings.php:193
+msgid "No Post Types selected yet."
+msgstr ""
+
+#: includes/settings.php:200 includes/settings.php:228
+#: includes/settings.php:611 includes/settings.php:702
+msgid "Save"
+msgstr ""
+
+#: includes/settings.php:213
+msgid "Move to :"
+msgstr ""
+
+#: includes/settings.php:214
+msgid "If you want to move post into trash or draft after schedule time"
+msgstr ""
+
+#: includes/settings.php:220
+msgid "Nothing"
+msgstr ""
+
+#: includes/settings.php:221
+msgid "Trash"
+msgstr ""
+
+#: includes/settings.php:222
+msgid "Draft"
+msgstr ""
+
+#: includes/settings.php:238
+msgid "Add Occassional Content"
+msgstr ""
+
+#: includes/settings.php:239
+msgid "Occassional Contents"
+msgstr ""
+
+#: includes/settings.php:253
+msgid "Apply For:"
+msgstr ""
+
+#: includes/settings.php:260
+msgid "Select"
+msgstr ""
+
+#: includes/settings.php:261
+msgid "All Posts"
+msgstr ""
+
+#: includes/settings.php:262
+msgid "All Pages"
+msgstr ""
+
+#: includes/settings.php:263
+msgid "Specific Pages"
+msgstr ""
+
+#: includes/settings.php:267
+msgid ""
+"Selecting a new option from \"Apply For\" dropdown. You will loose your "
+"occasional content data."
+msgstr ""
+
+#: includes/settings.php:303
+msgid "No Content To Show. Add Some Occassional Content First."
+msgstr ""
+
+#: includes/settings.php:311
+msgid "Content"
+msgstr ""
+
+#: includes/settings.php:312
+msgid "Applied For"
+msgstr ""
+
+#: includes/settings.php:313
+msgid "Content Position"
+msgstr ""
+
+#: includes/settings.php:314
+msgid "Rendering Type"
+msgstr ""
+
+#: includes/settings.php:375
+msgid "Delete"
+msgstr ""
+
+#: includes/settings.php:413
+msgid "Days: "
+msgstr ""
+
+#: includes/settings.php:423
+msgid "Months: "
+msgstr ""
+
+#: includes/settings.php:460
+msgid "Select Pages:"
+msgstr ""
+
+#: includes/settings.php:501
+msgid "Occasional Content:"
+msgstr ""
+
+#: includes/settings.php:521
+msgid "Content Position:"
+msgstr ""
+
+#: includes/settings.php:527
+msgid "Top"
+msgstr ""
+
+#: includes/settings.php:528
+msgid "Bottom"
+msgstr ""
+
+#: includes/settings.php:537
+msgid "Select Display Term:"
+msgstr ""
+
+#: includes/settings.php:551
+msgid "-Select-"
+msgstr ""
+
+#: includes/settings.php:565
+msgid "Select Days"
+msgstr ""
+
+#: includes/settings.php:566
+msgid "Sunday"
+msgstr ""
+
+#: includes/settings.php:567
+msgid "Monday"
+msgstr ""
+
+#: includes/settings.php:568
+msgid "Tuesday"
+msgstr ""
+
+#: includes/settings.php:569
+msgid "Wednesday"
+msgstr ""
+
+#: includes/settings.php:570
+msgid "Thursday"
+msgstr ""
+
+#: includes/settings.php:571
+msgid "Friday"
+msgstr ""
+
+#: includes/settings.php:572
+msgid "Saturday"
+msgstr ""
+
+#: includes/settings.php:576
+msgid "Select Months"
+msgstr ""
+
+#: includes/settings.php:577
+msgid "January"
+msgstr ""
+
+#: includes/settings.php:578
+msgid "February"
+msgstr ""
+
+#: includes/settings.php:579
+msgid "March"
+msgstr ""
+
+#: includes/settings.php:580
+msgid "April"
+msgstr ""
+
+#: includes/settings.php:581
+msgid "May"
+msgstr ""
+
+#: includes/settings.php:582
+msgid "June"
+msgstr ""
+
+#: includes/settings.php:583
+msgid "July"
+msgstr ""
+
+#: includes/settings.php:584
+msgid "August"
+msgstr ""
+
+#: includes/settings.php:585
+msgid "September"
+msgstr ""
+
+#: includes/settings.php:586
+msgid "October"
+msgstr ""
+
+#: includes/settings.php:587
+msgid "November"
+msgstr ""
+
+#: includes/settings.php:588
+msgid "December"
+msgstr ""
+
+#: includes/settings.php:598 includes/settings.php:689
+msgid "Rendering Time:"
+msgstr ""
+
+#: includes/settings.php:627
+msgid "Shortcode:"
+msgstr ""
+
+#: includes/settings.php:631
+msgid ""
+"To use shortcode you just need to paste the content of the grey portion in "
+"your posts"
+msgstr ""
+
+#: includes/settings.php:645
+#, php-format
+msgid "(Space and special characters like &,$,{},[],^,% etc. are not allowed)"
+msgstr ""
+
+#: includes/settings.php:652
+msgid "Shortcode Content:"
+msgstr ""
+
+#: includes/settings.php:673
+msgid "Rendering Dates:"
+msgstr ""
